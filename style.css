@@ -36,10 +36,9 @@ body {
   
   float: left;
   background: tomato;
-  padding-left: 100px;
-  padding-right: 99.7px;
+  width: 25%;
   text-align: center;
-  margin: auto;
+  
 }
 
 
